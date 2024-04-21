@@ -1,2 +1,2 @@
 # khushiengineering
-UI with angular
+UI with React
